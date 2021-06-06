@@ -6,7 +6,8 @@
 ## 示例
 ![img](https://upload.cc/i1/2021/06/06/mcD9AH.jpg)
 这对编程绘图十分有用！
-![img](https://upload.cc/i1/2021/06/06/pNQvgC.jpg)
+![img](https://upload.cc/i1/2021/06/06/pNQvgC.jpg)、
+[![QQ20210606220030.jpg](https://img.maocdn.cn/img/2021/06/06/QQ20210606220030.jpg)](https://img.wang/image/qqjie-tu-20210606220030.oUK9f)
 
 ## 用途
 如matplotlib、cartopy等

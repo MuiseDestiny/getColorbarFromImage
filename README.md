@@ -10,17 +10,20 @@
 
 ## 用途
 如matplotlib、cartopy等
+```python
 fig, ax = plt.subplots(figsize=(12, 0.36), dpi=150)
 cmap = mpl.colors.ListedColormap(hex_colors[1:-1])
 cmap.set_under(hex_colors[0])
 cmap.set_over(hex_colors[-1])
 plt.colorbar(mpl.cm.ScalarMappable(cmap=cmap, norm=mpl.colors.Normalize(0, 10)), 
              orientation='horizontal', extend='both', cax=ax)
-
+```
 ## 需要的库库
+```python
 from PIL import ImageGrab
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt 
 import matplotlib as mpl
 import pyperclip
+```
